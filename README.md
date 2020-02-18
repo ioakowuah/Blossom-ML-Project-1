@@ -1,0 +1,1 @@
+South Africa holds their crime data and make it available for researchers and stakeholders. In this project we find extent of crime across their province and investigate shoplifting cases. Further, insight is gained from their correlation of crime across the years.
